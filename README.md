@@ -2,7 +2,7 @@
 
 Compiladores, Licenciatura em Engenharia Informática, UTAD
 
-Grupo: [Nome 1] (n.º [número 1]), [Nome 2] (n.º [número 2]), [Nome 3] (n.º [número 3])
+Grupo: Guilherme Silva(2025156920), Tiago Jales(2025166470), Rui Lopes(2025162355) 
 
 ## Ferramentas utilizadas
 - GNU Flex 2.6.4
