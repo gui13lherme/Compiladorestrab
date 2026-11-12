@@ -1,0 +1,32 @@
+2 LIGAR          LIGAR
+3 ERRO_LEXICO    LIGARX  (sequencia invalida)
+3 ERRO_LEXICO    ligar  (sequencia invalida)
+3 ERRO_LEXICO    Ligar  (sequencia invalida)
+4 ERRO_LEXICO    EST-AA001  (identificador de estufa malformado)
+4 ERRO_LEXICO    EST-A101  (identificador de estufa malformado)
+4 ERRO_LEXICO    EST-aa01  (identificador de estufa malformado)
+4 ERRO_LEXICO    EST-AA1  (identificador de estufa malformado)
+4 ERRO_LEXICO    EST_AA01  (sequencia invalida)
+4 ERRO_LEXICO    EST-AA01X  (identificador de estufa malformado)
+5 ERRO_LEXICO    012  (inteiro malformado)
+5 ERRO_LEXICO    00  (inteiro malformado)
+5 ERRO_LEXICO    12abc  (inteiro malformado)
+5 ERRO_LEXICO    3_4  (inteiro malformado)
+5 ERRO_LEXICO    15-2  (inteiro malformado)
+6 ERRO_LEXICO    DESLIGAR_  (sequencia invalida)
+6 ERRO_LEXICO    REGAR-1  (sequencia invalida)
+6 ERRO_LEXICO    _ABRIR  (sequencia invalida)
+6 ERRO_LEXICO    -  (sequencia invalida)
+7 REGAR          REGAR
+7 ABRE_PAR       (
+7 INTEIRO        2
+7 VIRGULA        ,
+7 ERRO_LEXICO    015  (inteiro malformado)
+7 FECHA_PAR      )
+7 PONTO_VIRG     ;
+8 LIGAR          LIGAR
+8 ABRE_PAR       (
+8 ID_ESTUFA      EST-AA01
+8 FECHA_PAR      )
+8 PONTO_VIRG     ;
+Tokens: 12 | Erros lexicais: 19

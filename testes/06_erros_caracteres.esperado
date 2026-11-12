@@ -1,0 +1,79 @@
+2 ERRO_LEXICO    @  (caracter nao reconhecido)
+3 HUMIDADE       HUMIDADE
+3 ABRE_PAR       (
+3 INTEIRO        2
+3 FECHA_PAR      )
+3 ERRO_LEXICO    =  ('=' isolado nao e operador)
+3 INTEIRO        30
+4 HUMIDADE       HUMIDADE
+4 ABRE_PAR       (
+4 INTEIRO        2
+4 FECHA_PAR      )
+4 ERRO_LEXICO    !  ('!' isolado nao e operador)
+4 INTEIRO        30
+5 HUMIDADE       HUMIDADE
+5 ABRE_PAR       (
+5 INTEIRO        2
+5 FECHA_PAR      )
+5 MENOR_IGUAL    <=
+5 ERRO_LEXICO    =  ('=' isolado nao e operador)
+5 INTEIRO        30
+6 HUMIDADE       HUMIDADE
+6 ABRE_PAR       (
+6 INTEIRO        2
+6 FECHA_PAR      )
+6 ERRO_LEXICO    =  ('=' isolado nao e operador)
+6 ERRO_LEXICO    !  ('!' isolado nao e operador)
+6 INTEIRO        30
+7 AQUECER        AQUECER
+7 ABRE_PAR       (
+7 INTEIRO        20
+7 ERRO_LEXICO    +  (caracter nao reconhecido)
+7 INTEIRO        4
+7 FECHA_PAR      )
+7 PONTO_VIRG     ;
+8 REGAR          REGAR
+8 ABRE_PAR       (
+8 INTEIRO        2
+8 ERRO_LEXICO    *  (caracter nao reconhecido)
+8 INTEIRO        3
+8 VIRGULA        ,
+8 INTEIRO        15
+8 FECHA_PAR      )
+8 PONTO_VIRG     ;
+9 ESPERAR        ESPERAR
+9 ABRE_PAR       (
+9 INTEIRO        1
+9 ERRO_LEXICO    .  (caracter nao reconhecido)
+9 INTEIRO        5
+9 FECHA_PAR      )
+9 PONTO_VIRG     ;
+9 ESPERAR        ESPERAR
+9 ABRE_PAR       (
+9 ERRO_LEXICO    -5  (sequencia invalida)
+9 FECHA_PAR      )
+9 PONTO_VIRG     ;
+10 ABRIR          ABRIR
+10 ABRE_PAR       (
+10 FECHA_PAR      )
+10 ERRO_LEXICO    &  (caracter nao reconhecido)
+10 FECHAR         FECHAR
+10 ABRE_PAR       (
+10 FECHA_PAR      )
+10 ERRO_LEXICO    $  (caracter nao reconhecido)
+10 ERRO_LEXICO    %  (caracter nao reconhecido)
+10 ERRO_LEXICO    [  (caracter nao reconhecido)
+10 ERRO_LEXICO    ]  (caracter nao reconhecido)
+10 ERRO_LEXICO    "  (caracter nao reconhecido)
+10 ERRO_LEXICO    texto  (sequencia invalida)
+10 ERRO_LEXICO    "  (caracter nao reconhecido)
+10 ERRO_LEXICO    '  (caracter nao reconhecido)
+10 ERRO_LEXICO    x  (sequencia invalida)
+10 ERRO_LEXICO    '  (caracter nao reconhecido)
+11 AQUECER        AQUECER
+11 ABRE_PAR       (
+11 INTEIRO        24
+11 FECHA_PAR      )
+11 ERRO_LEXICO    º  (caracter nao reconhecido)
+11 ERRO_LEXICO    ç  (caracter nao reconhecido)
+Tokens: 55 | Erros lexicais: 23

@@ -1,0 +1,14 @@
+2 LIGAR          LIGAR
+2 ABRE_PAR       (
+2 ID_ESTUFA      EST-BC23
+2 FECHA_PAR      )
+2 PONTO_VIRG     ;
+4 ESPERAR        ESPERAR
+4 ABRE_PAR       (
+4 INTEIRO        10
+4 FECHA_PAR      )
+4 PONTO_VIRG     ;
+6 FECHAR         FECHAR
+6 ABRE_PAR       (
+6 FECHA_PAR      )
+Tokens: 13 | Erros lexicais: 0
